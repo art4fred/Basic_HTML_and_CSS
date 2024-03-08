@@ -1,0 +1,11 @@
+h1 {
+    font-family: Arial, "Times New Roman";
+    font-size: 22px;
+}
+
+input {
+    width: 150px;
+    margin: 10px;
+    border: 25px;
+    border-radius: 4px;
+}
